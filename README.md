@@ -10,6 +10,8 @@ https://github.com/GODPAPER/wiki
 
 https://github.com/werner-duvaud/muzero-general
 
+https://github.com/GODPAPER/muzero
+
 https://github.com/yangboz/boardgame.io
 
 ### 3.wrap up a boardgame to join FreeBoardGames.org;
